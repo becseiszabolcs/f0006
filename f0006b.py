@@ -1,0 +1,6 @@
+a=int(input("kérek egy számot: "))
+b=int(input("kérek egy számot: "))
+lista=list()
+lista.append(a)
+lista.append(b)
+print(min(lista))
